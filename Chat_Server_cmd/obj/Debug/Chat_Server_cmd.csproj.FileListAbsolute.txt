@@ -1,0 +1,6 @@
+F:\VS_PROJECT\ChatRoom\Chat_Server_cmd\bin\Debug\Chat_Server_cmd.exe.config
+F:\VS_PROJECT\ChatRoom\Chat_Server_cmd\bin\Debug\Chat_Server_cmd.exe
+F:\VS_PROJECT\ChatRoom\Chat_Server_cmd\bin\Debug\Chat_Server_cmd.pdb
+F:\VS_PROJECT\ChatRoom\Chat_Server_cmd\obj\Debug\Chat_Server_cmd.csprojResolveAssemblyReference.cache
+F:\VS_PROJECT\ChatRoom\Chat_Server_cmd\obj\Debug\Chat_Server_cmd.exe
+F:\VS_PROJECT\ChatRoom\Chat_Server_cmd\obj\Debug\Chat_Server_cmd.pdb

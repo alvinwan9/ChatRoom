@@ -1,0 +1,12 @@
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\bin\Debug\Chat_Client_V1.exe.config
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\bin\Debug\Chat_Client_V1.exe
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\bin\Debug\Chat_Client_V1.pdb
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.Login.resources
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.Main.resources
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.Properties.Resources.resources
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.SignUp.resources
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.Talking.resources
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.csproj.GenerateResource.Cache
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.exe
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.pdb
+F:\VS_PROJECT\ChatRoom\Chat_Client_V1\obj\Debug\Chat_Client_V1.csprojResolveAssemblyReference.cache
